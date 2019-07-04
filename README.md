@@ -1,2 +1,2 @@
-# yapb
-Yet Another (CLI) Progress Bar
+# yagp
+Yet Another GO (CLI) Progress bar
